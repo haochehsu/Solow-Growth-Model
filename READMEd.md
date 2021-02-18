@@ -1,2 +1,0 @@
-# Solow Growth Model
-
